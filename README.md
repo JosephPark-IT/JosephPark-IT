@@ -1,18 +1,18 @@
-# Hi, I'm Joseph Park 👋
+# Hi, I'm Joseph Park 
 
 ## About Me
 IT professional with 10+ years of hands-on technical experience transitioning into cybersecurity. Currently enrolled in the Per Scholas Cybersecurity Analyst program (April – July 2026), working toward CompTIA CySA+ and Splunk Core Certified User certifications.
 
 Based in Braselton, GA | Open to relocation
 
-## 🎯 Current Focus
+##  Current Focus
 - **Per Scholas Cybersecurity Analyst Program** — April 2026 cohort
 - **CompTIA A+** — Core 1 (target: April 2026) | Core 2 (target: May 2026)
 - **CompTIA CySA+** — target: July 2026
 - **Splunk Core Certified User** — target: July 2026
 - Building a hands-on SOC analyst portfolio through real lab work and incident investigations
 
-## 🛠️ Technical Skills
+##  Technical Skills
 - **SIEM & Monitoring:** Splunk (in progress), Microsoft Sentinel (learning)
 - **Identity & Access:** Active Directory, Okta (MFA support)
 - **Ticketing & ITSM:** ServiceNow, Salesforce Service Cloud
@@ -21,17 +21,17 @@ Based in Braselton, GA | Open to relocation
 - **Remote Support:** RDP, TeamViewer, Zoom/Teams
 - **Hardware:** Desktop/Laptop lifecycle, mobile device repair (15,000+ repairs)
 
-## 💼 Background
+##  Background
 - **Titan Technologies** — Help Desk (Contract) | 60+ daily tickets | 90% FCR rate | Active Directory administration | ServiceNow
 - **ADT Security** — Technical Support Specialist | 95% CSAT score | Top 25% of 400+ peers | Data privacy and compliance
 - **Cellairis** — Master Technician (10 years) | 15,000+ hardware repairs | Implemented RepairDesk ticketing system
 
-## 📂 Portfolio
+##  Portfolio
 | Repository | Description |
 |------------|-------------|
 | [Per-Scholas-Cyber-Ops](https://github.com/JosephPark-IT/Per-Scholas-Cyber-Ops) | SOC analyst portfolio — network analysis, incident response, Splunk queries, vulnerability assessments |
 
-## 📫 Contact
+##  Contact
 - **Email:** JosephPark.IT@gmail.com
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/josephpark-it)
 
