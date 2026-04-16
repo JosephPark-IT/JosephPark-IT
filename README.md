@@ -7,7 +7,6 @@ Based in Braselton, GA | Open to relocation
 
 ##  Current Focus
 - **Per Scholas Cybersecurity Analyst Program** — April 2026 cohort
-- **CompTIA A+** — Core 1 (target: April 2026) | Core 2 (target: May 2026)
 - **CompTIA CySA+** — target: July 2026
 - **Splunk Core Certified User** — target: July 2026
 - Building a hands-on SOC analyst portfolio through real lab work and incident investigations
